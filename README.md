@@ -7,6 +7,8 @@
 * Multiprocessing support.
 * ETC.
 
+**Telegram: @leechaerin26**
+
 ## Screenshot
 
 <img src="AIO_AMZ.jpg">
