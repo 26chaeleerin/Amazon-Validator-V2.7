@@ -1,4 +1,4 @@
-[AIO] Amazon Validator V.2.7
+[AIO] Amazon Validator V.2.7 (Update 20/11/2025)
 
 # Main features
 
