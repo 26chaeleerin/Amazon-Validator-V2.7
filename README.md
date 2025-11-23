@@ -1,3 +1,5 @@
+[AIO] Amazon Validator V.2.7
+
 # Main features
 
 * Multi Thread.
