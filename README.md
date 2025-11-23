@@ -7,7 +7,7 @@
 * Multiprocessing support.
 * ETC.
 
-**Telegram: @leechaerin26**
+**Telegram: [@leechaerin26]([url](https://t.me/leechaerin26))**
 
 ## Screenshot
 
